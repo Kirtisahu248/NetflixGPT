@@ -12,9 +12,11 @@
 
 - **Header Component**
 - **App Routing**
-- **Authentication**
   - LogIn Component
   - SignUp/SignIn Form
+  - Form Validation
+  - useRef Hook
+- **Authentication**
 
 ## Features
 
