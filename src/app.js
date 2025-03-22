@@ -1,10 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import Body from './Body'
 
 const AppLayout = () =>{
-    return <div className='text-3xl text-green-500'>
-    Hello World
-    </div>
+    return <Body/>
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
